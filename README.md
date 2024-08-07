@@ -29,8 +29,8 @@ The model is trained on a specialized COVID-19 dataset. ANd it is available in t
 
 2. **Running the Detection System**:
    ```sh
-   python detect_mask_image.py for detection of face mask in an image, and
-   python detect_mask_video.py for detection of face mask in an video
+   python detect_mask_image.py //for detection of face mask in an image, and
+   python detect_mask_video.py //for detection of face mask in an video
    ```
 
 ## Results
